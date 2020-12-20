@@ -1,5 +1,7 @@
 # Coffee Break
 
+[![Coffee Break](https://badgen.net/badge/coffee/break/orange)](https://github.com/team-coffee/coffee-break)
+
 Useful contents during coffee break.
 
 ### Design Pattern
