@@ -6,6 +6,7 @@ Useful contents during coffee break.
 
 ### AWS
 - [Well architected framework](https://aws.amazon.com/ko/blogs/apn/the-5-pillars-of-the-aws-well-architected-framework/)
+- [AWS Elastic Beanstalk 활용하여 수 분만에 코드 배포하기](https://www.youtube.com/watch?v=AfRnvsRxZ_0)
 
 ### Celery
 - [Celery - pros & cons](https://www.slideshare.net/kkungkkung/celery-52212762)
@@ -47,6 +48,9 @@ Useful contents during coffee break.
 
 ### Microservice
 - [What are microservices](https://microservices.io/)
+
+### REST
+- [그런 REST API로 괜찮은가](https://www.youtube.com/watch?v=RP_f5dMoHFc)
 
 ### Seminar
 - [당근마켓 개발 스택의 변화](https://youtu.be/ELlQXruFesI)
