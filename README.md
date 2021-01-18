@@ -48,6 +48,9 @@ Useful contents during coffee break.
 ### Microservice
 - [What are microservices](https://microservices.io/)
 
+### Object Oriented
+- [우아한테크세미나 - 우아한 객체지향](https://www.youtube.com/watch?v=dJ5C4qRqAgA)
+
 ### Seminar
 - [당근마켓 개발 스택의 변화](https://youtu.be/ELlQXruFesI)
 
