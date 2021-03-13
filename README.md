@@ -33,6 +33,9 @@ Useful contents during coffee break.
 ### ElasticSearch
 - [Basic concepts in es](https://victorydntmd.tistory.com/308?category=742451)
 
+### Git
+- [Git commit convetion guideline - Netlify](https://www.conventionalcommits.org/ko/v1.0.0/)
+
 ### Hire
 - [For Hire](https://www.b-list.org/weblog/2018/apr/11/hire/)
 - [기술 면접 질문 모음](https://velog.io/@hygoogi/%EA%B8%B0%EC%88%A0-%EB%A9%B4%EC%A0%91-%EC%A7%88%EB%AC%B8-%EB%AA%A8%EC%9D%8C)
