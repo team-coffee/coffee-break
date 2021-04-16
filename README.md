@@ -46,6 +46,7 @@ Useful contents during coffee break.
 
 ### JavaScript
 - [Is JavaScript synchronous or asynchronous](https://stackoverflow.com/questions/2035645/when-is-javascript-synchronous)
+- [Javascript 디자인 패턴](https://itstory.tk/entry/꼭-알아야하는-Javascript-디자인-패턴-4가지)
 
 ### Legacy service
 - [Banksald legacy service](https://blog.banksalad.com/tech/how-banksalald-decomposes-legacy-services/)
