@@ -39,7 +39,8 @@ Useful contents during coffee break.
 ### Hire
 - [For Hire](https://www.b-list.org/weblog/2018/apr/11/hire/)
 - [기술 면접 질문 모음](https://velog.io/@hygoogi/%EA%B8%B0%EC%88%A0-%EB%A9%B4%EC%A0%91-%EC%A7%88%EB%AC%B8-%EB%AA%A8%EC%9D%8C)
-- [기술 면접 기출 모음](https://mangkyu.tistory.com/88)
+- [기술 면접 기출 및 정리](https://mangkyu.tistory.com/88)
+- [실제 신입면접에서 받은 질문들](https://github.com/jobhope/TechnicalNote)
 
 ### Interview
 - [FIXING THE TECH INTERVIEW](http://media.b-list.org/presentations/2017/pygotham/interviewing.pdf)
