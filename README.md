@@ -50,6 +50,7 @@ Useful contents during coffee break.
 - [Django model guideline](https://jairvercosa.medium.com/django-model-guideline-d48a96c9b38c)
 - [Business Logic in Django projects](https://jairvercosa.medium.com/business-logic-in-django-projects-7fe700db9b0a)
 - [Design Django model](https://youtu.be/dXCh8m4P5Tc)
+- [Scaling django to 500 apps](https://youtu.be/NsHo-kThlqI)
 
 ### Dotfiles
 - [dotfiles.github.io](https://dotfiles.github.io/)
