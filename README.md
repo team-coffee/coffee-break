@@ -7,6 +7,8 @@ Useful contents during coffee break.
 ### Architecture
 - [Monolith, ModularMonolith, Microservice](https://shopify.engineering/deconstructing-monolith-designing-software-maximizes-developer-productivity)
 - [Monolith to Microservice architecture with patterns & best practices](https://medium.com/design-microservices-architecture-with-patterns/monolithic-to-microservices-architecture-with-patterns-best-practices-a768272797b2#gaerae.com) 
+- [The Clean Architecture - Uncle Bob](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html)
+- [Clean Architecture - Uncle Bob](https://blog.cleancoder.com/uncle-bob/2011/11/22/Clean-Architecture.html)
 
 ### AWS
 - [Well architected framework](https://aws.amazon.com/ko/blogs/apn/the-5-pillars-of-the-aws-well-architected-framework/)
