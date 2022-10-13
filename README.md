@@ -100,6 +100,9 @@ Useful contents during coffee break.
 ### Seminar
 - [당근마켓 개발 스택의 변화](https://youtu.be/ELlQXruFesI)
 
+### System Design
+- [시스템 디자인 관련 용어 정리](https://github.com/karanpratapsingh/system-design)
+
 ### Vault
 - [Introduction to vault - Armon Dadgar](https://www.youtube.com/watch?v=pS82c6VEhww)
 
