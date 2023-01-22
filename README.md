@@ -93,6 +93,11 @@ Useful contents during coffee break.
 ### Postgresql
 - [Postgresql query mmonitoring](https://blog.okmeter.io/postgresql-query-monitoring-375ee8048c10)
 
+### Pytest
+- [Pattern vs Anti-pattern](https://www.nerdwallet.com/blog/engineering/5-pytest-best-practices/)
+- [픽스쳐의 5가지 사용 패턴](https://www.inspiredpython.com/article/five-advanced-pytest-fixture-patterns)
+
+
 ### REST
 - [그런 REST API로 괜찮은가](https://www.youtube.com/watch?v=RP_f5dMoHFc)
 - [Best Practices for Designing a Pragmatic RESTful API](https://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api)
