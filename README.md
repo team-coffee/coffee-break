@@ -111,6 +111,9 @@ Useful contents during coffee break.
 ### Vault
 - [Introduction to vault - Armon Dadgar](https://www.youtube.com/watch?v=pS82c6VEhww)
 
+### Web
+- [Stop using usafe character in urls](https://perishablepress.com/stop-using-unsafe-characters-in-urls/)
+
 ### Work
 - [당신에게 왜냐고 되물어보는 이유](https://edykim.com/ko/post/why-do-i-ask-you-why/)
 - ['일잘사'는 공유합니다](https://brunch.co.kr/@hyungsukkim/75)
