@@ -97,10 +97,12 @@ Useful contents during coffee break.
 - [Pattern vs Anti-pattern](https://www.nerdwallet.com/blog/engineering/5-pytest-best-practices/)
 - [픽스쳐의 5가지 사용 패턴](https://www.inspiredpython.com/article/five-advanced-pytest-fixture-patterns)
 
-
 ### REST
 - [그런 REST API로 괜찮은가](https://www.youtube.com/watch?v=RP_f5dMoHFc)
 - [Best Practices for Designing a Pragmatic RESTful API](https://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api)
+
+### Server
+- [토스 - 서버 증설 없이 처리하는 대규모 트래픽](https://toss.tech/article/monitoring-traffic)
 
 ### Seminar
 - [당근마켓 개발 스택의 변화](https://youtu.be/ELlQXruFesI)
