@@ -92,6 +92,7 @@ Useful contents during coffee break.
 
 ### Postgresql
 - [Postgresql query mmonitoring](https://blog.okmeter.io/postgresql-query-monitoring-375ee8048c10)
+- [PostgreSQL Vacuum에 대한 거의 모든 것](https://techblog.woowahan.com/9478/)
 
 ### Pytest
 - [Pattern vs Anti-pattern](https://www.nerdwallet.com/blog/engineering/5-pytest-best-practices/)
