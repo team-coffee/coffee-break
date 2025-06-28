@@ -4,6 +4,9 @@
 
 Useful contents during coffee break.
 
+### AI
+- [Claude Code: Best practices for agentic coding](https://www.anthropic.com/engineering/claude-code-best-practices)
+
 ### Architecture
 - [Monolith, ModularMonolith, Microservice](https://shopify.engineering/deconstructing-monolith-designing-software-maximizes-developer-productivity)
 - [Monolith to Microservice architecture with patterns & best practices](https://medium.com/design-microservices-architecture-with-patterns/monolithic-to-microservices-architecture-with-patterns-best-practices-a768272797b2#gaerae.com) 
