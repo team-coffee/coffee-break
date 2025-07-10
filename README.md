@@ -7,6 +7,7 @@ Useful contents during coffee break.
 ### AI
 - [Claude Code: Best practices for agentic coding](https://www.anthropic.com/engineering/claude-code-best-practices)
 - [Claude Code Top Tips: Lessons from the First 20 Hours](https://waleedk.medium.com/claude-code-top-tips-lessons-from-the-first-20-hours-246032b943b4)
+- [Claude Code's Plan Mode - Planning Before Coding](https://insight.infograb.net/blog/2025/06/25/claude-code-plan-mode/)
 
 ### Architecture
 - [Monolith, ModularMonolith, Microservice](https://shopify.engineering/deconstructing-monolith-designing-software-maximizes-developer-productivity)
