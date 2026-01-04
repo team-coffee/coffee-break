@@ -96,6 +96,7 @@ Useful contents during coffee break.
 - [GeekNews - 개발/기술/스타트업 뉴스](https://news.hada.io/)
 - [조쉬의 뉴스레터 - AI, 비즈니스, 프로덕트](https://maily.so/josh)
 - [노마드 코더 - 유용한 코딩 공부 팁](https://nomadcoders.co/community/tips)
+- [TechBlogPosts - 한국 테크 기업 블로그 모음](https://www.techblogposts.com/ko)
 
 ### Object Oriented
 - [우아한테크세미나 - 우아한객체지향](https://www.youtube.com/watch?v=dJ5C4qRqAgA)
